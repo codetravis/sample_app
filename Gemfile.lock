@@ -61,11 +61,7 @@ GEM
     mime-types (1.25.1)
     mini_portile (0.5.2)
     minitest (4.7.5)
-<<<<<<< HEAD
     multi_json (1.9.0)
-=======
-    multi_json (1.8.4)
->>>>>>> c6836ec906eead40304d2412ed1d820c825c3047
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
     pg (0.15.1)
@@ -106,12 +102,7 @@ GEM
       rspec-expectations (~> 2.13.0)
       rspec-mocks (~> 2.13.0)
     rubyzip (0.9.9)
-<<<<<<< HEAD
-    sass (3.3.0)
-      rake
-=======
-    sass (3.2.14)
->>>>>>> c6836ec906eead40304d2412ed1d820c825c3047
+    sass (3.3.1)
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
       sass (>= 3.1.10)
@@ -143,11 +134,7 @@ GEM
       polyglot (>= 0.3.1)
     turbolinks (1.1.1)
       coffee-rails
-<<<<<<< HEAD
     tzinfo (0.3.39)
-=======
-    tzinfo (0.3.38)
->>>>>>> c6836ec906eead40304d2412ed1d820c825c3047
     uglifier (2.1.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
