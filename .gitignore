@@ -15,7 +15,11 @@
 /log/*.log
 /tmp
 
+<<<<<<< HEAD
 # Ignore other unneeded files
+=======
+# Ignore other files
+>>>>>>> c6836ec906eead40304d2412ed1d820c825c3047
 database.yml
 doc/
 *.swp
