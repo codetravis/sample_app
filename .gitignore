@@ -15,7 +15,7 @@
 /log/*.log
 /tmp
 
-# Ignore other files
+# Ignore other unneeded files
 database.yml
 doc/
 *.swp
